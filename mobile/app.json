@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Folio",
+    "slug": "folio-reader",
+    "version": "0.1.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.folio.reader"
+    },
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "plugins": [
+      "expo-sqlite",
+      "expo-secure-store",
+      "expo-sharing",
+      "expo-status-bar"
+    ]
+  }
+}

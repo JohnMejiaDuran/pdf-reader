@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+build/
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.db
+*.db-shm
+*.db-wal
+data/
+*.log
+*.egg-info/
